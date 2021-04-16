@@ -1,0 +1,26 @@
+#conjugaison{
+    
+    margin-top:45px;
+}
+.erreur{
+    color:red;
+    font-weight: bold;
+}
+.verbe_introuvable{
+    
+    margin-top:34;
+}
+.custom,.resultat{
+   position: absolute;
+   bottom: 40px;
+   left: 35%;
+}
+.resultat{
+    text-align: center;
+    margin-top: 34px;
+}
+
+.rouge{
+    font-weight:bold;
+    color:red !important;
+}
